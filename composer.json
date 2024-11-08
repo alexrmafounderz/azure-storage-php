@@ -1,5 +1,5 @@
 {
-  "name": "azure-oss/storage",
+  "name": "alexrmafounderz/azure-oss/storage",
   "description": "Azure Storage PHP SDK",
   "keywords": ["azure", "storage", "php", "sdk"],
   "type": "library",
